@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 357892ae8a625d347b462bb92e202a98, type: 3}
+  m_Name: TeamConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Cqw.MultilayerFramework.Player.TeamConfig
+  Teams:
+  - TeamId: 0
+    NameKey: team.red
+    Color: {r: 0.9, g: 0.25, b: 0.25, a: 1}
+  - TeamId: 1
+    NameKey: team.blue
+    Color: {r: 0.25, g: 0.5, b: 0.95, a: 1}
